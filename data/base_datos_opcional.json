@@ -1,0 +1,25 @@
+{
+  "descripcion": "Estructura de datos opcional para documentar inscripciones o simular almacenamiento.",
+  "campos": [
+    "id",
+    "nombre",
+    "edad",
+    "telefono",
+    "correo",
+    "taller",
+    "jornada",
+    "fecha"
+  ],
+  "ejemplo": [
+    {
+      "id": 1,
+      "nombre": "Laura Perez",
+      "edad": 16,
+      "telefono": "3001234567",
+      "correo": "laura@correo.com",
+      "taller": "web",
+      "jornada": "manana",
+      "fecha": "2026-05-19 08:00"
+    }
+  ]
+}

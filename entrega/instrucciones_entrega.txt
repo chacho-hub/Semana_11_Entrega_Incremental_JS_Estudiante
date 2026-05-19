@@ -1,0 +1,17 @@
+INSTRUCCIONES DE ENTREGA
+
+1. Verifica que el proyecto abra correctamente en VS Code.
+2. Ejecuta index.html y confirma que la funcionalidad opera.
+3. Ejecuta tests.html y toma captura de las pruebas.
+4. Completa:
+   - CHANGELOG_INCREMENTO.md
+   - docs/03_checklist_requisitos.md
+   - docs/04_matriz_pruebas.md
+   - docs/05_bitacora_depuracion.md
+5. Agrega capturas a la carpeta evidencias.
+6. Comprime la carpeta completa del proyecto.
+7. Sube el ZIP final a Moodle.
+
+Nombre sugerido del archivo:
+Semana11_EntregaIncremental_ApellidoNombre.zip
+Semana11_EntregaIncremental_GrupoNombre.zip
