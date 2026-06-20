@@ -16,12 +16,12 @@ Descripcion:
 
 ## Evidencia 4: registro valido guardado
 Archivo de captura:
-Descripcion:
+Descripcion:registro de la informasion guardado
 
 ## Evidencia 5: pruebas automaticas
 Archivo de captura:
-Descripcion:
+Descripcion:se realizaron las prueba del funcionemiento de la pagina 
 
 ## Evidencia 6: consola sin errores
 Archivo de captura:
-Descripcion:
+Descripcion:esta es la consola sin errores 
